@@ -1,3 +1,4 @@
 # Requirements
 1. You need a to install numpy, pandas, sklearn, seaborn and matplotlib in your system
 2. You need an interface to run python. Be it Jupyter Notebook or VS Code or PyCharm.
+3. You need to download the dataset for Fraud Data from Kaggle. It was too big to upload to the repository even after compressing
